@@ -1,0 +1,38 @@
+Aficionado	Fan
+Al final	At the end
+Aplaudir	To applaud
+Atleta	Athlete
+Campeón	Champion
+Campeonato	Championship
+Competencia	Competition
+Competir	To compete
+Empate	Tie
+Entrenador	Coach
+Fenomenal	Phenomenal
+Jugador	Player
+Liga	League
+Meter un gol	To score a goal
+Perder	To lose
+Por vez	For the time
+Resultar	To result
+Tanteo	Score
+Último	Last
+Auditorio	Auditorium
+Comentario	Commentary
+Concurso de belleza	Beauty Contest
+Entrevistar	To interview
+Un millón de	A million
+Premio	Prize
+Presentador	Presenter
+Público	Audience
+Reina	Queen
+Aburrirse	To get bored
+Agitado	Agitated
+Alegra	Happy
+Emociondo	Excited
+Enojado	Angry
+Enojarse	To get angry
+Furioso	Furious
+Volverse loco	To go crazy
+Dormirse	To fall asleep
+Morirse	To die

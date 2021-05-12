@@ -1,0 +1,42 @@
+<h2>block grant</h2>^federal grants that are given almost automatically to states and/or communities to support broad programs in areas
+<h2>categorical grants</h2>^Federal grants that can be used only for specific purposes or "categories," of state and local spending. They come with strings attached, such as nondiscrimination provisions. Compare to block grants.
+<h2>Centralists</h2>^People who favor national action over action at the state and local levels
+<h2>commerce clause</h2>^The clause in the Constitution (Article I, Section 8, Clause 1) that gives Congress the power to regulate all business activities that cross state lines or affect more than one state or other nations.
+<h2>concurrent powers</h2>^Powers that the Constitution gives to both the national and state governments, such as the power to levy taxes.
+<h2>Conditions of aid</h2>^Federal rules attached to the grants that states receive. States must agree to abide by these rules in order to receive the grants.
+<h2>Confederation</h2>^A system in which states are soveriegn and the national goverment may only do what states permit
+<h2>Cooperative Federalism</h2>^cooperation among federal, state, and local giverments (marble cake)
+<h2>decentralization</h2>^the spread of power away from the center to local branches or governments
+<h2>deconcentration</h2>^administrative decentralization
+<h2>Devolution</h2>^the process of shifting some power from national to local government
+<h2>dillon's rule</h2>^a rule that limits the powers of local gov't to those expressly granted by the state or those powers closely linked to the express powers
+<h2>Dual Federalism</h2>^doctrine that the state & national governments are supreme in their separate spheres
+<h2>Elastic Clause</h2>^Article 1, section 8, allows congress to pass all necessary and proper laws to carry out enumerated powers.
+<h2>Enumerated powers</h2>^powers of the fed government specifically addressed in the constitution, powers listed in article one section 8
+<h2>Express powers</h2>^Those delegated powers of the National Government that are given to it in so many words by the constitution
+<h2>Extradition</h2>^legal process where alleged criminal is surrendered by officials of one state to that of another in which the alleged crime was committed
+<h2>Federal Mandate</h2>^A federal law or act compelling State to take certain actions sometimes without providing funding
+<h2>Federalism</h2>^a way of organizing a nation so that two or more levels of government have authority
+<h2>Fiscal Federalism</h2>^pattern of spending, taxing, and providing grants in federal system; cornerstone of national government's relationship with state and local governments
+<h2>Formula Grants</h2>^federal categorical grants given according to a formula specified in legislation or regulations
+<h2>Full Faith & Credit Clause</h2>^Article 4, section 1 ; requires each state to recognize official documents & civil judgments rendered by the courts of other states
+<h2>Gibbons v. Ogden</h2>^1824, landmark case in which the Supreme court interpreting Article 1 section 8 of the constitution very broadly giving congress the power to regulate interstate commerce, encompassing almost every form of commercial activity
+<h2>Grants-in-aid</h2>^Money given by the national government to the states, were originally used to finance universities as well as to build wagon roads, canals, railroads, and flood-control projects
+<h2>Implied Powers</h2>^- powers of federal government that goes beyond those stated in the constitution; an example of this is creation of institutions not foreseen directly in the Constitution such as a national bank
+<h2>Inherent powers</h2>^The powers of the national government in foreign affairs that the Supreme Court has declared do not depend on constitutional grants but rather grow out of the very existence of the national government
+<h2>Intergovernmental Relations</h2>^The workings of the federal system- the entire set of interactions among national, state, and local governments
+<h2>Interstate Compact</h2>^An agreement among two or more states, congress must approve most such agreements
+<h2>McCulloch v. Maryland</h2>^attempt by Maryland to destroy a branch of the bank of the US by imposing a tax on its notes, most famous Marshall Decision, No national bank, upheld bank rights to exist and be free from taxes
+<h2>National Supremacy</h2>^Constitutional doctrine that whenever conflict occurs between the constitutionally authorized actions of the national government and those of a state or local government, the actions of the federal government prevail
+<h2>Necessary & Proper Clause</h2>^Constitutional clause that gives congress the power to make all laws "necessary and proper" for executing its powers
+<h2>Nullification</h2>^the states'-rights doctrine that a state can refuse to recognize or to enforce a federal law passed by the United States Congress
+<h2>Preemption</h2>^The right to purchase something before others, especially the right to purchase public land that is granted to one who has settled on that land
+<h2>Privileges & Immunities</h2>^guarantees that "citizens of each state shall be entitled to all privileges and immunities of citizens" in any other state in the United States
+<h2>Revenue Sharing</h2>^Distribution of a portion of federal tax revenues to state and municipal governments
+<h2>Second-order Devolution</h2>^A flow of power and responsibility form the states to local governments
+<h2>Sovereignty</h2>^Supremacy of authority or rule as exercised by a sovereign or sovereign state
+<h2>States' rights</h2>^All rights not delegated to the federal government by the Constitution nor denied by it to the states
+<h2>Supremacy Clause</h2>^The clause of Article VI section 2 of the U.S. Constitution that declares that all laws and treaties made by the federal government shall be the "supreme law of the land."
+<h2>Tenth Amendment</h2>^Last amendment in the Bill of Rights that states that any powers not given to the national government will be given to the individual states
+<h2>Third-order Devolution</h2>^- Increased role of non-profit organizations and private groups in policy implementation
+<h2>Unitary Government</h2>^a centralized government in which all government powers belong to a single central agency

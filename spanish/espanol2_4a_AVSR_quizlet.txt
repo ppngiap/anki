@@ -1,0 +1,47 @@
+los abuelos	grandparents
+la familia	family
+los hermanos	siblings
+los padres	parents
+los primos	cousins
+los tíos	aunts and uncles
+las bebidas	drinks
+la galleta	cookie
+la hamburguesa	hamburger
+el helado	ice cream
+el jamón	ham
+la limonada	lemonade
+los pasteles	pastries
+el perrito caliente	hot dog
+la pizza	pizza
+el postre	dessert
+el queso	cheese
+el refresco	soda
+el sándwich	sandwich
+el azúcar	sugar
+la cuchara	spoon
+el cuchillo	knife
+la pimienta	pepper
+el plato	plate
+la sal	salt
+la servilleta	napkin
+el tenedor	fork
+el vaso	glass
+abrir los regalos	to open presents
+la celebración	celebration
+celebrar	to celebrate
+compartir	to share
+el cumpleaños	birthday
+la fiesta	party
+hacer un video	to make a video
+preparar	to prepare
+la quinceañera	15th birthday party
+romper la piñata	to break the piñata
+sacar fotos	to take photos
+decorar	to decorate
+la flor	flower
+el globo	ballon
+la luz	light
+el papel picado	cut-paper decoration
+las personas	people
+la comida	food
+la mesa	table

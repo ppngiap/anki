@@ -1,0 +1,56 @@
+los bloques	blocks
+una colección	collection
+las colecciones	collections
+la cuerda	jump rope (cord)
+el dinosaurio	dinosaur
+la muñeca	doll
+el muñeco	action figure
+el oso de peluche	teddy bear
+el tren eléctrico	electric train
+el triciclo	tricycle
+el pez	fish (singular)
+los peces	fish (plural)
+la tortuga	turtle
+coleccionar	to collect
+molestar	to bother
+pelearse	to fight
+saltar	to jump
+saltar a la cuerda	to jump rope
+la guardería infantil	daycare center
+el patio de recreo	playground
+de niño	as a boy (as a male child)
+de niña	as a girl (as a female child)
+de pequeño	as a little boy
+de pequeña	as a little girl
+de vez en cuando	once in a while (from time to time)
+mentir	to lie
+obedecer	to obey
+ofrecer (le)	to offer ( to another)
+permitir	to allow
+por lo general	generally
+portarse bien	to behave well
+portarse mal	to behave badly
+todo el mundo	everyone (everybody)
+el vecino	neighbor (male)
+la verdad	the truth
+la vecina	neighbor (female)
+bien educado(a)	well-behaved
+consentido(a)	spoiled
+desobediente	disobedient
+generoso(a)	generous
+obediente	obedient
+tímido(a)	timid (shy)
+travieso(a)	naughty mischievous
+las monedas	coins
+el mundo	world
+respetar	to respect
+permitir	to allow
+el tobogán	slide
+el columpio	swing
+el carrusel	merry-go-round
+el pájaro	bird
+los animales de peluche	stuffed animals
+los juguetes	toys
+juguetón	playful (masc.)
+juguetona	playful (fem.)
+creativo(a)	creative

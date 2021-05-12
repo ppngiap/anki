@@ -1,0 +1,54 @@
+la casa	house
+¿Qué tiempo hace?	What's the weather like?
+hace calor	it's hot
+hace frío	it's cold
+hace sol	it's sunny
+hace viento	it's windy
+llueve	it's raining
+llover	to rain
+nieva	it's snowing
+nevar	to snow
+los cuartos de la casa	rooms of the house
+el baño	bathroom
+la cocina	kitchen
+el comedor	dining room
+el dormitorio	bedroom
+el garaje	garage
+el jardín	garden
+la oficina	office
+el patio	patio
+la planta baja	ground floor
+el primer piso	second floor
+la sala	living room
+el segundo piso	third floor
+el sótano	basement
+la alfombra	carpet
+la cama	bed
+la cómoda	dresser
+las cortinas	curtains
+el cuadro	painting
+el disco compacto	compact disc
+el equipo de sonido	sound system
+el espejo	mirror
+el estante	bookshelf
+la lámpara	lamp
+la mesita	night stand
+la pared	wall
+el televisor	TV
+el video	video
+el lector DVD	DVD player
+Hace fresco.	It is chilly.
+Está nublado	It is cloudy.
+tener hambre	to be hungry
+tener sed	to be thirsty
+tener frío	to be cold
+tener calor	to be hot
+tener sueño	to be sleepy
+tener ___ años	to be # years old
+tener cuidado	to be careful
+tener miedo	to be scared
+tener prisa	to be in a hurry
+tener razón	to be right
+no tener razón	to be wrong
+tener suerte	to be lucky
+tener vergüenza	to be embarrassed

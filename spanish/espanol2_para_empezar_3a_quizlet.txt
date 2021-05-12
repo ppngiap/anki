@@ -1,0 +1,365 @@
+aburrido/a	bored/boring
+amigable	friendly
+artístico/a	artistic
+atrevido/a	daring
+alto/a	tall
+bajo/a	short (height)
+bonito/a	pretty
+bueno/a	good
+cansado/a	tired
+cariñoso/a	affectionate
+contento/a	happy
+corto/a	short (length)
+delicioso/a	delicious
+deportista	sports-minded/sporty
+difícil	difficult
+desordenado/a	unorganized
+divertido/a	fun
+estudioso/a	studious
+estricto/a	strict
+enfermo/a	sick
+excelente	excellent
+fácil	easy
+fabuloso/a	fabulous
+fantástico/a	fantastic
+feliz	happy
+fenomenal	phenomenal
+feo/a	ugly
+guapo/a	good-looking/handsome
+gracioso/a	funny
+grande	big/large
+hermoso/a	beautiful
+honesto/a	honest
+horrible	horrible
+impaciente	impatient
+increíble	incredible
+inteligente	intelligent
+interesante	interesting
+joven	young
+largo/a	long
+malo/a	bad
+limpio/a	clean
+ordenado/a	organized
+ocupado/a	busy
+nuevo/a	new
+paciente	patient
+perezoso	lazy
+raro/a	rare/strange/weird
+reservado/a	reserved/shy
+rico/a	rich (in money or in flavor)
+sabroso/a	tasty
+saludable	healthy
+serio/a	serious
+simpático/a	nice
+sociable	sociable
+sucio/a	dirty
+talentoso/a	talented
+tradicional	traditional
+triste	sad
+trabajador/a	hard-working
+viejo/a	old
+abrir	to open
+almorzar	to eat lunch
+amar	to love
+arreglar	to straighten up, to fix
+ayudar	to help
+bailar	to dance
+beber	to drink
+buscar	to look for
+caminar	to walk
+cantar	to sing
+celebrar	to celebrate
+cenar	to eat dinner
+cocinar	to cook
+comer	to eat
+compartir	to share
+comprar	to buy
+comprender	to understand, to comprehend
+correr	to run
+cortar	to cut
+creer	to believe
+dar	to give
+deber	"to should", must
+decir	to say, tell
+decorar	to decorate
+desayunar	to eat breakfast
+dibujar	to draw
+dormir	to sleep
+encantar	to enchant, to be delighting
+enseñar	to teach, show
+entrar	to enter
+escribir	to write
+escuchar	to listen
+esquiar	to ski
+estar	to be (location and condition)
+gustar	to be pleasing
+hablar	to speak, to talk
+hacer	to do, make
+ir	to go
+ir + a + infinitivo	to be going to (do something)
+jugar	to play (a game or sport)
+lavar	to wash
+leer	to read
+levantar	to lift
+llevar	to wear, carry
+limpiar	to clean
+mantener	to maintain
+mirar	to watch, look (at)
+montar	to ride
+nadar	to swim
+necesitar	to need
+pasar	to pass
+patinar	to skate
+participar	to participate
+pedir	to ask (for something)
+pensar	to think, plan
+practicar	to practice
+preferir	to prefer
+preparar	to prepare
+poder	to be able to ("to can")
+poner	to put, set
+querer	to want, love
+quitar	to remove
+romper	to break
+repetir	to repeat
+recibir	to receive
+sacar	to take out
+saber	to know (facts, information, how to do something)
+ser	to be (descriptions, origin, profession, etc.)
+servir	to serve
+tener	to have
+tener que	to have to
+tocar	to touch, to play (an instrument)
+tomar	to take, drink
+trabajar	to work
+usar	to use
+venir	to come
+ver	to see
+vivir	to live
+aprender de memoria	to memorize, to learn by memory
+contestar	to answer
+dar un discurso	to give a speech
+discutir	to discuss
+explicar	to explain
+hacer una pregunta	to ask a question
+el informe	report
+el laboratorio	laboratory
+la palabra	word
+pedir ayuda	to ask for help
+el proyecto	project
+sacar una buena nota	to get a good grade
+a tiempo	on time
+entregar	to turn in
+llegar tarde	to arrive late
+prestar atención	to pay attention
+la regla	rule, ruler
+respetar	to respect
+se prohíbe...	it's forbidden...
+el armario	locker
+el asiento	seat
+el carnet de identidad	I.D. card
+la cinta adhesiva	transparent tape
+la grapadora	stapler
+los materiales	supplies, materials
+las tijeras	scissors
+alguien	someone, anyone
+algún, alguna, algunos, algunas	some, any
+nadie	no one, nobody
+ningún, ninguno/a	no, none, not any
+conocer	to know (person, place, be familiar with)
+lo que	what
+sobre	on, about
+las actividades extracurriculares	extracurricular activities
+el ajedrez	chess
+el club	club
+el club atlético	athletic club
+el equipo	team
+la fotografía (clase)	photography
+el fotógrafo, la fotógrafa	photographer
+la fotografía (cosa)	photograph
+los jóvenes	young people
+el miembro	member
+ser miembro	to be a member
+el pasatiempo	pastime, hobby
+la práctica	practice
+la reunión	meeting
+el animador, la animadora	cheerleader
+las artes marciales	martial arts
+el hockey	hockey
+jugar a los bolos	to bowl
+la natación	swimming
+hacer gimnasia	to do gymnastics
+banda	band
+el bailarín, la bailarina	dancer
+la canción	song
+las canciones	songs
+el cantante	male singer
+la cantante	female singer
+el coro	chorus, choir
+ensayar	to rehearse
+el ensayo	rehearsal
+el músico	male musician
+la música	female musician
+la orquesta	orchestra
+la voz	voice
+las voces	voices
+asistir a	to attend
+ganar	to earn, to win, to gain
+grabar	to record
+participar (en)	to participate in
+tomar lecciones	to take lessons
+volver	to return
+crear una página Web	to create a Web page
+estar en línea	to be on line
+hacer una búsqueda	to do a search
+navegar en la Red	to surf the Web
+visitar salones de chat	to visit chat rooms
+entre	among, between
+el interés	interest
+la oportunidad	opportunity
+¿Cuánto tiempo hace que...?	How long?
+Hace (tiempo) que...	It has been...
+tan (adjetivo) como	as + adj. + as
+tantos(as) (noun) como	as many (noun) as
+saber	to know a fact, information
+conocer	to know (be familiar)
+tanto (noun) como	as much (noun) as
+acostarse (o->ue)	to go to bed
+afeitarse	to shave
+arreglarse el pelo	to fix one's hair
+bañarse	to bathe
+cepillarse	to brush
+cepillarse los dientes	to brush one's teeth
+cepillarse el pelo	to brush one's hair
+cortarse el pelo	to cut your hair
+despertarse	to wake up
+ducharse	to take a shower
+levantarse	to get up
+lavarse	to wash oneself
+lavarse la cara	to wash one's face
+pedir prestado (e->i)	to ask to borrow
+pintarse las uñas	to paint one's nails
+ponerse	to put on
+prepararse	to get ready
+secarse	to dry
+vestirse	to get dressed
+el agua de colonia	cologne
+el cepillo	brush
+el cinturón	belt
+los cinturones	belts
+el desodorante	deodorant
+la ducha	shower
+el gel	gel
+las joyas	jewelry
+las joyas de oro	gold jewelry
+las joyas de plata	silver jewelry
+los labios	lips
+el maquillaje	makeup
+el peine	comb
+el pelo	hair
+el salón de belleza	beauty salon
+el secador	hair dryer
+la toalla	towel
+las uñas	fingernails
+antes de	before
+depende	It depends
+lentamente	slowly
+luego	then, later
+rápidamente	quickly
+quitarse	to take off
+después de	afterwards
+el anillo	ring
+el arete	earring
+el collar	necklace
+llevar	to wear
+la entrada	entrance
+la ganga	bargain
+el letrero	sign
+la liquidación	sale
+el mercado	market
+la salida	exit
+claro (a)	light
+de sólo un color	solid-colored
+oscuro (a)	dark
+pastel	pastel
+vivo (a)	bright
+¿De qué está hecho (a)?	What is it made of?
+Está hecho (a) de...	It's made of...
+algodón	cotton
+cuero	leather
+lana	wool
+seda	silk
+tela sintética	synthetic fabric
+alto (a)	high
+bajo (a)	low
+la caja	cash register
+el (la) cajero (a)	cashier
+el cheque (personal)	(personal) check
+el cheque viajero	traveler's check
+el cupón de regalo	gift certificate
+en efectivo	cash
+gastar	to spend
+el precio	price
+tan + adjective	so...
+la tarjeta de crédito	credit card
+apretado (a)	tight
+escoger	to choose
+estar de moda	to be in fashion
+el estilo	style
+exagerado (a)	outrageous
+flojo (a)	loose
+la marca	brand
+mediano (a)	medium
+el número	shoe size
+probarse (o-ue)	to try on
+la talla	size
+anunciar	to announce
+encontrar (o-ue)	to find
+en realidad	really
+me importa	it matters to me
+te importa	it matters to you
+me importan	they matter to me
+te importan	they matter to you
+inmediatamente	immediately
+me parece que	it seems to me that
+¿Qué te parace?	What do you think?
+recientemente	recently
+este, esta	this
+estos, estas	these
+ese, esa	that
+esos, esas	those
+aquel, aquella	that one over there
+aquellos, aquellas	those over there
+el banco	bank
+el centro	downtown
+el consultorio	doctors/ dentists office
+la estación de servicio	service station
+la farmacia	pharmacy
+el supermercado	super market
+el buzón	mailbox
+la carta	letter
+el correo	post office
+el sello	stamp
+la tarjeta	card
+el equipo deportivo	sports equipment
+el palo de golf	golf club
+los patines	skates
+la pelota	ball
+la raqueta de tenis	tennis racket
+el cepillo de dientes	tooth brush
+el champú	shampoo
+el jabón	soap
+la pasta dental	tooth paste
+el dentista	dentist
+la gasolina	gasoline
+el médico	doctor
+echar/mandar una carta	to mail a letter
+enviar	to send
+cerrar (present tense E-IE; preterite tense no stem change)	to close
+cobrar un cheque	to cash a check
+cuidar (a los niños)	to take care of
+devolver	to return
+ir a pie	to go on foot
+llenar (el tanque)	to fill
+sacar (un libro, la basura)	to take
+quedarse	to stay

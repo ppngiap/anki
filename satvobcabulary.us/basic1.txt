@@ -1,0 +1,287 @@
+"<h2>abridge</h2><a href=""https://www.membean.com/mywords/abridge"">membean</a> <a href=""https://www.vocabulary.com/dictionary/abridge"">vocabulary</a>"^shorten<br><br><br>size, amount, location
+"<h2>abstract</h2><a href=""https://www.membean.com/mywords/abstract"">membean</a> <a href=""https://www.vocabulary.com/dictionary/abstract"">vocabulary</a>"^theoretical, not practical<br><br><br>argument and language
+"<h2>accessible</h2><a href=""https://www.vocabulary.com/dictionary/accessible"">vocabulary</a>"^easy to approach or reach<br><br><br>give up?
+"<h2>acclaim</h2><a href=""https://www.membean.com/mywords/acclaim"">membean</a> <a href=""https://www.vocabulary.com/dictionary/acclaim"">vocabulary</a>"^praise<br><br><br>praise and criticism
+"<h2>accord</h2><a href=""https://www.membean.com/mywords/accord"">membean</a> <a href=""https://www.vocabulary.com/dictionary/accord"">vocabulary</a>"^agreement<br><br><br>friends and enemies
+"<h2>acknowledge</h2><a href=""https://www.vocabulary.com/dictionary/acknowledge"">vocabulary</a>"^recognize<br><br><br>truth
+"<h2>acquiesce</h2><a href=""https://www.membean.com/mywords/acquiesce"">membean</a> <a href=""https://www.vocabulary.com/dictionary/acquiesce"">vocabulary</a>"^give in<br><br><br>give up?
+"<h2>admonish</h2><a href=""https://www.membean.com/mywords/admonish"">membean</a> <a href=""https://www.vocabulary.com/dictionary/admonish"">vocabulary</a>"^warn<br><br><br>praise and criticism
+"<h2>adulation</h2><a href=""https://www.membean.com/mywords/adulation"">membean</a> <a href=""https://www.vocabulary.com/dictionary/adulation"">vocabulary</a>"^praise<br><br><br>praise and criticism
+"<h2>adversary</h2><a href=""https://www.membean.com/mywords/adversary"">membean</a> <a href=""https://www.vocabulary.com/dictionary/adversary"">vocabulary</a>"^opponent, foe<br><br><br>friends and enemies
+"<h2>adversity</h2><a href=""https://www.membean.com/mywords/adversity"">membean</a> <a href=""https://www.vocabulary.com/dictionary/adversity"">vocabulary</a>"^misfortune, hardship<br><br><br>war and peace
+"<h2>aesthetic</h2><a href=""https://www.membean.com/mywords/aesthetic"">membean</a> <a href=""https://www.vocabulary.com/dictionary/aesthetic"">vocabulary</a>"^relating to visual beauty<br><br><br>the senses
+"<h2>affable, affability</h2><a href=""https://www.membean.com/mywords/affable"">membean</a> <a href=""https://www.vocabulary.com/dictionary/affable"">vocabulary</a>"^friendly, friendliness<br><br><br>friends and enemies
+"<h2>affirmation</h2><a href=""https://www.membean.com/mywords/affirmation"">membean</a> <a href=""https://www.vocabulary.com/dictionary/affirmation"">vocabulary</a>"^positive assertion<br><br><br>argument and language
+"<h2>affliction</h2><a href=""https://www.membean.com/mywords/affliction"">membean</a> <a href=""https://www.vocabulary.com/dictionary/affliction"">vocabulary</a>"^pain, suffering<br><br><br>war and peace
+"<h2>affluent</h2><a href=""https://www.vocabulary.com/dictionary/affluent"">vocabulary</a>"^wealthy<br><br><br>money
+"<h2>agreeable</h2><a href=""https://www.vocabulary.com/dictionary/agreeable"">vocabulary</a>"^pleasant<br><br><br>friends and enemies
+"<h2>ailment</h2><a href=""https://www.vocabulary.com/dictionary/ailment"">vocabulary</a>"^illness<br><br><br>war and peace
+"<h2>alienate</h2><a href=""https://www.membean.com/mywords/alienate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/alienate"">vocabulary</a>"^to cause to be unfriendly or withdrawn<br><br><br>friends and enemies
+"<h2>allegiance</h2><a href=""https://www.vocabulary.com/dictionary/allegiance"">vocabulary</a>"^loyalty<br><br><br>friends and enemies
+"<h2>alleviate</h2><a href=""https://www.membean.com/mywords/alleviate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/alleviate"">vocabulary</a>"^relieve<br><br><br>war and peace
+"<h2>ally</h2><a href=""https://www.vocabulary.com/dictionary/ally"">vocabulary</a>"^friend, supporter<br><br><br>friends and enemies
+"<h2>amalgam</h2><a href=""https://www.vocabulary.com/dictionary/amalgam"">vocabulary</a>"^mixture<br><br><br>science
+"<h2>ambiguous</h2><a href=""https://www.membean.com/mywords/ambiguous"">membean</a> <a href=""https://www.vocabulary.com/dictionary/ambiguous"">vocabulary</a>"^unclear<br><br><br>truth
+"<h2>ambivalent, ambivalence</h2><a href=""https://www.membean.com/mywords/ambivalent"">membean</a> <a href=""https://www.vocabulary.com/dictionary/ambivalent"">vocabulary</a>"^mixed feelings<br><br><br>emotions
+"<h2>anachronism, anachronistic</h2><a href=""https://www.membean.com/mywords/anachronism"">membean</a> <a href=""https://www.vocabulary.com/dictionary/anachronism"">vocabulary</a>"^an error in chronology (time)<br><br><br>time
+"<h2>analogous</h2><a href=""https://www.membean.com/mywords/analogous"">membean</a> <a href=""https://www.vocabulary.com/dictionary/analogous"">vocabulary</a>"^similar<br><br><br>argument and language
+"<h2>anecdote</h2><a href=""https://www.membean.com/mywords/anecdote"">membean</a> <a href=""https://www.vocabulary.com/dictionary/anecdote"">vocabulary</a>"^short story<br><br><br>argument and language
+"<h2>anguish</h2><a href=""https://www.membean.com/mywords/anguish"">membean</a> <a href=""https://www.vocabulary.com/dictionary/anguish"">vocabulary</a>"^agony<br><br><br>war and peace
+"<h2>animated</h2><a href=""https://www.membean.com/mywords/animated"">membean</a> <a href=""https://www.vocabulary.com/dictionary/animated"">vocabulary</a>"^lively<br><br><br>energy
+"<h2>animosity</h2><a href=""https://www.vocabulary.com/dictionary/animosity"">vocabulary</a>"^hostility<br><br><br>friends and enemies
+"<h2>anomaly, anomalous</h2><a href=""https://www.membean.com/mywords/anomaly"">membean</a> <a href=""https://www.vocabulary.com/dictionary/anomaly"">vocabulary</a>"^not normal<br><br><br>politics and tradition
+"<h2>antagonism, antagonistic</h2><a href=""https://www.vocabulary.com/dictionary/antagonism"">vocabulary</a>"^adversarial, opposing<br><br><br>friends and enemies
+"<h2>antecedent</h2><a href=""https://www.membean.com/mywords/antecedent"">membean</a> <a href=""https://www.vocabulary.com/dictionary/antecedent"">vocabulary</a>"^what came before<br><br><br>time
+"<h2>antiquated</h2><a href=""https://www.membean.com/mywords/antiquated"">membean</a> <a href=""https://www.vocabulary.com/dictionary/antiquated"">vocabulary</a>"^old<br><br><br>time
+"<h2>antisocial</h2><a href=""https://www.vocabulary.com/dictionary/antisocial"">vocabulary</a>"^antagonistic, not friendly<br><br><br>friends and enemies
+"<h2>antithesis</h2><a href=""https://www.membean.com/mywords/antithesis"">membean</a> <a href=""https://www.vocabulary.com/dictionary/antithesis"">vocabulary</a>"^opposite<br><br><br>argument and language
+"<h2>apparatus</h2><a href=""https://www.vocabulary.com/dictionary/apparatus"">vocabulary</a>"^device, equipment<br><br><br>science
+"<h2>appease, appeasement</h2><a href=""https://www.membean.com/mywords/appease"">membean</a> <a href=""https://www.vocabulary.com/dictionary/appease"">vocabulary</a>"^bring about peace<br><br><br>friends and enemies
+"<h2>applaud</h2><a href=""https://www.vocabulary.com/dictionary/applaud"">vocabulary</a>"^praise<br><br><br>praise and criticism
+"<h2>apprehension, apprehensive</h2><a href=""https://www.vocabulary.com/dictionary/apprehension"">vocabulary</a>"^uneasy anticipation<br><br><br>emotions
+"<h2>arbitrary</h2><a href=""https://www.membean.com/mywords/arbitrary"">membean</a> <a href=""https://www.vocabulary.com/dictionary/arbitrary"">vocabulary</a>"^random<br><br><br>science
+"<h2>archaic</h2><a href=""https://www.membean.com/mywords/archaic"">membean</a> <a href=""https://www.vocabulary.com/dictionary/archaic"">vocabulary</a>"^old-fashioned<br><br><br>time
+"<h2>ardent</h2><a href=""https://www.vocabulary.com/dictionary/ardent"">vocabulary</a>"^passionate<br><br><br>emotions
+"<h2>arduous</h2><a href=""https://www.membean.com/mywords/arduous"">membean</a> <a href=""https://www.vocabulary.com/dictionary/arduous"">vocabulary</a>"^demanding great effort<br><br><br>give up?
+"<h2>aristocrat, aristocratic</h2><a href=""https://www.vocabulary.com/dictionary/aristocrat"">vocabulary</a>"^member of the nobility<br><br><br>politics and tradition
+"<h2>arrogance, arrogant</h2><a href=""https://www.vocabulary.com/dictionary/arrogance"">vocabulary</a>"^haughty<br><br><br>pride
+"<h2>articulate, articulation</h2><a href=""https://www.membean.com/mywords/articulate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/articulate"">vocabulary</a>"^well-spoken<br><br><br>argument and language
+"<h2>assert</h2><a href=""https://www.vocabulary.com/dictionary/assert"">vocabulary</a>"^declare<br><br><br>argument and language
+"<h2>astute</h2><a href=""https://www.membean.com/mywords/astute"">membean</a> <a href=""https://www.vocabulary.com/dictionary/astute"">vocabulary</a>"^shrewd, smart<br><br><br>knowledge and skill
+"<h2>atrocity</h2><a href=""https://www.vocabulary.com/dictionary/atrocity"">vocabulary</a>"^appalling situation<br><br><br>war and peace
+"<h2>atypical</h2><a href=""https://www.vocabulary.com/dictionary/atypical"">vocabulary</a>"^not normal<br><br><br>politics and tradition
+"<h2>audacious</h2><a href=""https://www.membean.com/mywords/audacious"">membean</a> <a href=""https://www.vocabulary.com/dictionary/audacious"">vocabulary</a>"^daring<br><br><br>give up?
+"<h2>augment</h2><a href=""https://www.membean.com/mywords/augment"">membean</a> <a href=""https://www.vocabulary.com/dictionary/augment"">vocabulary</a>"^enlarge, increase<br><br><br>size, amount, location
+"<h2>authoritarian</h2><a href=""https://www.vocabulary.com/dictionary/authoritarian"">vocabulary</a>"^commanding<br><br><br>politics and tradition
+"<h2>autonomous, autonomy</h2><a href=""https://www.membean.com/mywords/autonomous"">membean</a> <a href=""https://www.vocabulary.com/dictionary/autonomous"">vocabulary</a>"^independent<br><br><br>politics and tradition
+"<h2>aversion</h2><a href=""https://www.membean.com/mywords/aversion"">membean</a> <a href=""https://www.vocabulary.com/dictionary/aversion"">vocabulary</a>"^dislike, disinclination<br><br><br>friends and enemies
+"<h2>awe</h2><a href=""https://www.vocabulary.com/dictionary/awe"">vocabulary</a>"^wonder, admiration<br><br><br>emotions
+"<h2>baffling</h2><a href=""https://www.vocabulary.com/dictionary/baffling"">vocabulary</a>"^perplexing, confusing<br><br><br>knowledge and skill
+"<h2>belittle</h2><a href=""https://www.membean.com/mywords/belittle"">membean</a> <a href=""https://www.vocabulary.com/dictionary/belittle"">vocabulary</a>"^disparage, talk down<br><br><br>praise and criticism
+"<h2>bewilderment</h2><a href=""https://www.vocabulary.com/dictionary/bewilderment"">vocabulary</a>"^confusion, disorientation<br><br><br>knowledge and skill
+"<h2>bias</h2><a href=""https://www.vocabulary.com/dictionary/bias"">vocabulary</a>"^prejudice, preconception<br><br><br>argument and language
+"<h2>blatant</h2><a href=""https://www.vocabulary.com/dictionary/blatant"">vocabulary</a>"^obvious, conspicuous<br><br><br>argument and language
+"<h2>bounteous</h2><a href=""https://www.vocabulary.com/dictionary/bounteous"">vocabulary</a>"^abundant, rich<br><br><br>money
+"<h2>bountiful</h2><a href=""https://www.vocabulary.com/dictionary/bountiful"">vocabulary</a>"^plentiful, ample<br><br><br>size, amount, location
+"<h2>braggart</h2><a href=""https://www.vocabulary.com/dictionary/braggart"">vocabulary</a>"^boaster, show off<br><br><br>pride
+"<h2>brevity</h2><a href=""https://www.membean.com/mywords/brevity"">membean</a> <a href=""https://www.vocabulary.com/dictionary/brevity"">vocabulary</a>"^conciseness<br><br><br>argument and language
+"<h2>bystander</h2><a href=""https://www.vocabulary.com/dictionary/bystander"">vocabulary</a>"^spectator, onlooker<br><br><br>war and peace
+"<h2>calculated</h2><a href=""https://www.vocabulary.com/dictionary/calculated"">vocabulary</a>"^deliberate<br><br><br>knowledge and skill
+"<h2>candid, candor</h2><a href=""https://www.vocabulary.com/dictionary/candid"">vocabulary</a>"^honest<br><br><br>truth
+"<h2>capacity</h2><a href=""https://www.vocabulary.com/dictionary/capacity"">vocabulary</a>"^ability<br><br><br>knowledge and skill
+"<h2>captivating</h2><a href=""https://www.vocabulary.com/dictionary/captivating"">vocabulary</a>"^enchanting, fascinating<br><br><br>emotions
+"<h2>catastrophic</h2><a href=""https://www.vocabulary.com/dictionary/catastrophic"">vocabulary</a>"^disasterous<br><br><br>war and peace
+"<h2>charismatic</h2><a href=""https://www.vocabulary.com/dictionary/charismatic"">vocabulary</a>"^charming<br><br><br>friends and enemies
+"<h2>charitable</h2><a href=""https://www.vocabulary.com/dictionary/charitable"">vocabulary</a>"^generous<br><br><br>money
+"<h2>chronological</h2><a href=""https://www.membean.com/mywords/chronological"">membean</a> <a href=""https://www.vocabulary.com/dictionary/chronological"">vocabulary</a>"^in temporal order, sequential<br><br><br>time
+"<h2>cliché</h2><a href=""https://www.vocabulary.com/dictionary/cliché"">vocabulary</a>"^overused expression, platitude<br><br><br>argument and language
+"<h2>collaborate</h2><a href=""https://www.membean.com/mywords/collaborate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/collaborate"">vocabulary</a>"^work together<br><br><br>friends and enemies
+"<h2>colleague</h2><a href=""https://www.vocabulary.com/dictionary/colleague"">vocabulary</a>"^co-worker<br><br><br>friends and enemies
+"<h2>combustible</h2><a href=""https://www.vocabulary.com/dictionary/combustible"">vocabulary</a>"^flammable<br><br><br>science
+"<h2>commend, commendable</h2><a href=""https://www.vocabulary.com/dictionary/commend"">vocabulary</a>"^praise<br><br><br>praise and criticism
+"<h2>compassionate</h2><a href=""https://www.vocabulary.com/dictionary/compassionate"">vocabulary</a>"^sympathetic, empathetic<br><br><br>friends and enemies
+"<h2>compatible</h2><a href=""https://www.vocabulary.com/dictionary/compatible"">vocabulary</a>"^harmonious<br><br><br>friends and enemies
+"<h2>compelling</h2><a href=""https://www.vocabulary.com/dictionary/compelling"">vocabulary</a>"^convincing, interesting<br><br><br>argument and language
+"<h2>compile</h2><a href=""https://www.vocabulary.com/dictionary/compile"">vocabulary</a>"^collect<br><br><br>science
+"<h2>complementary</h2><a href=""https://www.vocabulary.com/dictionary/complementary"">vocabulary</a>"^forming a complete whole<br><br><br>friends and enemies
+"<h2>complimentary</h2><a href=""https://www.vocabulary.com/dictionary/complimentary"">vocabulary</a>"^expressing praise<br><br><br>praise and criticism
+"<h2>comply</h2><a href=""https://www.vocabulary.com/dictionary/comply"">vocabulary</a>"^act in accordance with rules<br><br><br>law and order
+"<h2>comprehensive</h2><a href=""https://www.vocabulary.com/dictionary/comprehensive"">vocabulary</a>"^thorough<br><br><br>argument and language
+"<h2>concise</h2><a href=""https://www.membean.com/mywords/concise"">membean</a> <a href=""https://www.vocabulary.com/dictionary/concise"">vocabulary</a>"^succinct, brief and to the point<br><br><br>argument and language
+"<h2>condescend, condescending</h2><a href=""https://www.membean.com/mywords/condescend"">membean</a> <a href=""https://www.vocabulary.com/dictionary/condescend"">vocabulary</a>"^belittle, belittling<br><br><br>praise and criticism
+"<h2>condone</h2><a href=""https://www.membean.com/mywords/condone"">membean</a> <a href=""https://www.vocabulary.com/dictionary/condone"">vocabulary</a>"^excuse, overlook<br><br><br>praise and criticism
+"<h2>conformist</h2><a href=""https://www.vocabulary.com/dictionary/conformist"">vocabulary</a>"^someone who uncritically follows rules<br><br><br>politics and tradition
+"<h2>confound(ed)</h2><a href=""https://www.vocabulary.com/dictionary/confound(ed)"">vocabulary</a>"^confuse(d)<br><br><br>knowledge and skill
+"<h2>confrontational</h2><a href=""https://www.vocabulary.com/dictionary/confrontational"">vocabulary</a>"^causing conflict<br><br><br>friends and enemies
+"<h2>conjecture</h2><a href=""https://www.membean.com/mywords/conjecture"">membean</a> <a href=""https://www.vocabulary.com/dictionary/conjecture"">vocabulary</a>"^hypothesis<br><br><br>argument and language
+"<h2>consensus</h2><a href=""https://www.membean.com/mywords/consensus"">membean</a> <a href=""https://www.vocabulary.com/dictionary/consensus"">vocabulary</a>"^agreement<br><br><br>argument and language
+"<h2>constraint</h2><a href=""https://www.vocabulary.com/dictionary/constraint"">vocabulary</a>"^restraint, limit<br><br><br>size, amount, location
+"<h2>contend</h2><a href=""https://www.vocabulary.com/dictionary/contend"">vocabulary</a>"^compete, assert<br><br><br>argument and language
+"<h2>contract</h2><a href=""https://www.vocabulary.com/dictionary/contract"">vocabulary</a>"^enter into an agreement, reduce in size<br><br><br>size, amount, location
+"<h2>contradict</h2><a href=""https://www.vocabulary.com/dictionary/contradict"">vocabulary</a>"^assert the opposite of<br><br><br>argument and language
+"<h2>conviction</h2><a href=""https://www.vocabulary.com/dictionary/conviction"">vocabulary</a>"^belief<br><br><br>argument and language
+"<h2>convoluted</h2><a href=""https://www.membean.com/mywords/convoluted"">membean</a> <a href=""https://www.vocabulary.com/dictionary/convoluted"">vocabulary</a>"^complicated, twisted<br><br><br>knowledge and skill
+"<h2>cordial</h2><a href=""https://www.membean.com/mywords/cordial"">membean</a> <a href=""https://www.vocabulary.com/dictionary/cordial"">vocabulary</a>"^polite<br><br><br>friends and enemies
+"<h2>corrode</h2><a href=""https://www.vocabulary.com/dictionary/corrode"">vocabulary</a>"^rust, decay<br><br><br>science
+"<h2>corrupt</h2><a href=""https://www.vocabulary.com/dictionary/corrupt"">vocabulary</a>"^immoral, depraved<br><br><br>law and order
+"<h2>courteous</h2><a href=""https://www.vocabulary.com/dictionary/courteous"">vocabulary</a>"^polite<br><br><br>friends and enemies
+"<h2>crafty</h2><a href=""https://www.vocabulary.com/dictionary/crafty"">vocabulary</a>"^devious, deceptive<br><br><br>truth
+"<h2>criterion</h2><a href=""https://www.vocabulary.com/dictionary/criterion"">vocabulary</a>"^standard, measure<br><br><br>law and order
+"<h2>cryptic</h2><a href=""https://www.vocabulary.com/dictionary/cryptic"">vocabulary</a>"^mysterious<br><br><br>truth
+"<h2>curt</h2><a href=""https://www.vocabulary.com/dictionary/curt"">vocabulary</a>"^rudely brief or abrupt<br><br><br>friends and enemies
+"<h2>curtail</h2><a href=""https://www.membean.com/mywords/curtail"">membean</a> <a href=""https://www.vocabulary.com/dictionary/curtail"">vocabulary</a>"^shorten<br><br><br>size, amount, location
+"<h2>cynical</h2><a href=""https://www.membean.com/mywords/cynical"">membean</a> <a href=""https://www.vocabulary.com/dictionary/cynical"">vocabulary</a>"^pessimistic<br><br><br>emotions
+"<h2>decisive</h2><a href=""https://www.vocabulary.com/dictionary/decisive"">vocabulary</a>"^conclusive, resolute<br><br><br>knowledge and skill
+"<h2>decode</h2><a href=""https://www.vocabulary.com/dictionary/decode"">vocabulary</a>"^decipher<br><br><br>give up?
+"<h2>deficit</h2><a href=""https://www.membean.com/mywords/deficit"">membean</a> <a href=""https://www.vocabulary.com/dictionary/deficit"">vocabulary</a>"^lack, shortage<br><br><br>size, amount, location
+"<h2>deft</h2><a href=""https://www.membean.com/mywords/deft"">membean</a> <a href=""https://www.vocabulary.com/dictionary/deft"">vocabulary</a>"^skillful<br><br><br>knowledge and skill
+"<h2>dehydrate</h2><a href=""https://www.vocabulary.com/dictionary/dehydrate"">vocabulary</a>"^remove water<br><br><br>science
+"<h2>demise</h2><a href=""https://www.membean.com/mywords/demise"">membean</a> <a href=""https://www.vocabulary.com/dictionary/demise"">vocabulary</a>"^downfall<br><br><br>give up?
+"<h2>denounce</h2><a href=""https://www.membean.com/mywords/denounce"">membean</a> <a href=""https://www.vocabulary.com/dictionary/denounce"">vocabulary</a>"^criticize<br><br><br>praise and criticism
+"<h2>deplore</h2><a href=""https://www.vocabulary.com/dictionary/deplore"">vocabulary</a>"^express sorrow<br><br><br>war and peace
+"<h2>detached</h2><a href=""https://www.vocabulary.com/dictionary/detached"">vocabulary</a>"^separated<br><br><br>size, amount, location
+"<h2>deter</h2><a href=""https://www.vocabulary.com/dictionary/deter"">vocabulary</a>"^prevent, discourage<br><br><br>give up?
+"<h2>detrimental</h2><a href=""https://www.membean.com/mywords/detrimental"">membean</a> <a href=""https://www.vocabulary.com/dictionary/detrimental"">vocabulary</a>"^damaging, harmful<br><br><br>war and peace
+"<h2>devious</h2><a href=""https://www.vocabulary.com/dictionary/devious"">vocabulary</a>"^sly, dishonest<br><br><br>truth
+"<h2>devise</h2><a href=""https://www.vocabulary.com/dictionary/devise"">vocabulary</a>"^create<br><br><br>knowledge and skill
+"<h2>diligence, diligent</h2><a href=""https://www.vocabulary.com/dictionary/diligence"">vocabulary</a>"^hardworking<br><br><br>give up?
+"<h2>disclaimer</h2><a href=""https://www.vocabulary.com/dictionary/disclaimer"">vocabulary</a>"^renunciation, rejection<br><br><br>politics and tradition
+"<h2>disclose</h2><a href=""https://www.vocabulary.com/dictionary/disclose"">vocabulary</a>"^make information known<br><br><br>truth
+"<h2>discord(ant)</h2><a href=""https://www.vocabulary.com/dictionary/discord(ant)"">vocabulary</a>"^conflciting, inharmonious<br><br><br>friends and enemies
+"<h2>discourse</h2><a href=""https://www.vocabulary.com/dictionary/discourse"">vocabulary</a>"^discussion<br><br><br>argument and language
+"<h2>discredit</h2><a href=""https://www.vocabulary.com/dictionary/discredit"">vocabulary</a>"^damage in reputation<br><br><br>praise and criticism
+"<h2>discreet</h2><a href=""https://www.vocabulary.com/dictionary/discreet"">vocabulary</a>"^tactful, diplomatic<br><br><br>politics and tradition
+"<h2>discrepancy</h2><a href=""https://www.membean.com/mywords/discrepancy"">membean</a> <a href=""https://www.vocabulary.com/dictionary/discrepancy"">vocabulary</a>"^divergence, disagreement<br><br><br>politics and tradition
+"<h2>disdain(ful)</h2><a href=""https://www.vocabulary.com/dictionary/disdain(ful)"">vocabulary</a>"^contempt(uous)<br><br><br>praise and criticism
+"<h2>dismiss(ive)</h2><a href=""https://www.vocabulary.com/dictionary/dismiss(ive)"">vocabulary</a>"^reject(ing)<br><br><br>praise and criticism
+"<h2>disparity</h2><a href=""https://www.membean.com/mywords/disparity"">membean</a> <a href=""https://www.vocabulary.com/dictionary/disparity"">vocabulary</a>"^inequality, incongruity<br><br><br>politics and tradition
+"<h2>distort, distortion</h2><a href=""https://www.vocabulary.com/dictionary/distort"">vocabulary</a>"^misrepresent, alter<br><br><br>truth
+"<h2>dominant</h2><a href=""https://www.vocabulary.com/dictionary/dominant"">vocabulary</a>"^most prominent<br><br><br>politics and tradition
+"<h2>dynamic</h2><a href=""https://www.vocabulary.com/dictionary/dynamic"">vocabulary</a>"^full of energy<br><br><br>energy
+"<h2>eccentric</h2><a href=""https://www.membean.com/mywords/eccentric"">membean</a> <a href=""https://www.vocabulary.com/dictionary/eccentric"">vocabulary</a>"^unconventional<br><br><br>politics and tradition
+"<h2>egotism, egotist</h2><a href=""https://www.vocabulary.com/dictionary/egotism"">vocabulary</a>"^self-centered<br><br><br>pride
+"<h2>eloquence, eloquent</h2><a href=""https://www.vocabulary.com/dictionary/eloquence"">vocabulary</a>"^fluent and persuasive speech/writing<br><br><br>argument and language
+"<h2>embellish</h2><a href=""https://www.membean.com/mywords/embellish"">membean</a> <a href=""https://www.vocabulary.com/dictionary/embellish"">vocabulary</a>"^decorate, ornament<br><br><br>the senses
+"<h2>emulate</h2><a href=""https://www.membean.com/mywords/emulate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/emulate"">vocabulary</a>"^imitate<br><br><br>friends and enemies
+"<h2>endorse</h2><a href=""https://www.vocabulary.com/dictionary/endorse"">vocabulary</a>"^approve, support<br><br><br>praise and criticism
+"<h2>engaging</h2><a href=""https://www.vocabulary.com/dictionary/engaging"">vocabulary</a>"^charming, agreeable<br><br><br>friends and enemies
+"<h2>enhance</h2><a href=""https://www.vocabulary.com/dictionary/enhance"">vocabulary</a>"^heighten, improve<br><br><br>size, amount, location
+"<h2>entrepreneur</h2><a href=""https://www.vocabulary.com/dictionary/entrepreneur"">vocabulary</a>"^businessman<br><br><br>money
+"<h2>eradicate</h2><a href=""https://www.membean.com/mywords/eradicate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/eradicate"">vocabulary</a>"^destroy<br><br><br>war and peace
+"<h2>erratic</h2><a href=""https://www.membean.com/mywords/erratic"">membean</a> <a href=""https://www.vocabulary.com/dictionary/erratic"">vocabulary</a>"^irregular, unpredictable<br><br><br>science
+"<h2>erroneous</h2><a href=""https://www.vocabulary.com/dictionary/erroneous"">vocabulary</a>"^incorrect<br><br><br>praise and criticism
+"<h2>exacerbate</h2><a href=""https://www.membean.com/mywords/exacerbate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/exacerbate"">vocabulary</a>"^make worse<br><br><br>war and peace
+"<h2>exasperate</h2><a href=""https://www.membean.com/mywords/exasperate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/exasperate"">vocabulary</a>"^annoy<br><br><br>friends and enemies
+"<h2>excerpt</h2><a href=""https://www.vocabulary.com/dictionary/excerpt"">vocabulary</a>"^a passage taken from a book, speech, etc.<br><br><br>argument and language
+"<h2>exclusive</h2><a href=""https://www.vocabulary.com/dictionary/exclusive"">vocabulary</a>"^not shared, elite<br><br><br>politics and tradition
+"<h2>execute</h2><a href=""https://www.vocabulary.com/dictionary/execute"">vocabulary</a>"^produce<br><br><br>politics and tradition
+"<h2>exhilaration, exhilarating</h2><a href=""https://www.vocabulary.com/dictionary/exhilaration"">vocabulary</a>"^lively<br><br><br>energy
+"<h2>explicate</h2><a href=""https://www.membean.com/mywords/explicate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/explicate"">vocabulary</a>"^explain<br><br><br>argument and language
+"<h2>explicit</h2><a href=""https://www.vocabulary.com/dictionary/explicit"">vocabulary</a>"^fully expressed, leaving nothing implied<br><br><br>argument and language
+"<h2>exploit (verb)</h2><a href=""https://www.vocabulary.com/dictionary/exploit (verb)"">vocabulary</a>"^take advantage of<br><br><br>friends and enemies
+"<h2>extravagant</h2><a href=""https://www.vocabulary.com/dictionary/extravagant"">vocabulary</a>"^excessive<br><br><br>size, amount, location
+"<h2>facilitate</h2><a href=""https://www.membean.com/mywords/facilitate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/facilitate"">vocabulary</a>"^allow, help<br><br><br>war and peace
+"<h2>falter</h2><a href=""https://www.vocabulary.com/dictionary/falter"">vocabulary</a>"^stumble<br><br><br>war and peace
+"<h2>feasible</h2><a href=""https://www.vocabulary.com/dictionary/feasible"">vocabulary</a>"^possible<br><br><br>truth
+"<h2>fend off</h2><a href=""https://www.vocabulary.com/dictionary/fend off"">vocabulary</a>"^prevent, deflect<br><br><br>give up?
+"<h2>fiasco</h2><a href=""https://www.membean.com/mywords/fiasco"">membean</a> <a href=""https://www.vocabulary.com/dictionary/fiasco"">vocabulary</a>"^failure<br><br><br>war and peace
+"<h2>flatter</h2><a href=""https://www.vocabulary.com/dictionary/flatter"">vocabulary</a>"^praise<br><br><br>praise and criticism
+"<h2>flaunt</h2><a href=""https://www.membean.com/mywords/flaunt"">membean</a> <a href=""https://www.vocabulary.com/dictionary/flaunt"">vocabulary</a>"^show off<br><br><br>pride
+"<h2>fleeting</h2><a href=""https://www.membean.com/mywords/fleeting"">membean</a> <a href=""https://www.vocabulary.com/dictionary/fleeting"">vocabulary</a>"^short-lived<br><br><br>time
+"<h2>flimsy</h2><a href=""https://www.vocabulary.com/dictionary/flimsy"">vocabulary</a>"^insubstantial<br><br><br>knowledge and skill
+"<h2>foster (verb)</h2><a href=""https://www.vocabulary.com/dictionary/foster (verb)"">vocabulary</a>"^nurture<br><br><br>size, amount, location
+"<h2>generic</h2><a href=""https://www.membean.com/mywords/generic"">membean</a> <a href=""https://www.vocabulary.com/dictionary/generic"">vocabulary</a>"^general<br><br><br>politics and tradition
+"<h2>gullible</h2><a href=""https://www.membean.com/mywords/gullible"">membean</a> <a href=""https://www.vocabulary.com/dictionary/gullible"">vocabulary</a>"^naïve, credulous<br><br><br>truth
+"<h2>hazard, hazardous</h2><a href=""https://www.vocabulary.com/dictionary/hazard"">vocabulary</a>"^dangerous<br><br><br>war and peace
+"<h2>hereditary</h2><a href=""https://www.vocabulary.com/dictionary/hereditary"">vocabulary</a>"^passed down from one generation to the next, connection through genes<br><br><br>politics and tradition
+"<h2>hierarchy</h2><a href=""https://www.membean.com/mywords/hierarchy"">membean</a> <a href=""https://www.vocabulary.com/dictionary/hierarchy"">vocabulary</a>"^class-based system<br><br><br>politics and tradition
+"<h2>hospitable</h2><a href=""https://www.vocabulary.com/dictionary/hospitable"">vocabulary</a>"^generous<br><br><br>friends and enemies
+"<h2>impair</h2><a href=""https://www.vocabulary.com/dictionary/impair"">vocabulary</a>"^damage<br><br><br>war and peace
+"<h2>impeccable</h2><a href=""https://www.membean.com/mywords/impeccable"">membean</a> <a href=""https://www.vocabulary.com/dictionary/impeccable"">vocabulary</a>"^perfect<br><br><br>knowledge and skill
+"<h2>impenetrable</h2><a href=""https://www.membean.com/mywords/impenetrable"">membean</a> <a href=""https://www.vocabulary.com/dictionary/impenetrable"">vocabulary</a>"^impossible to enter or understand<br><br><br>truth
+"<h2>imperceptible</h2><a href=""https://www.membean.com/mywords/imperceptible"">membean</a> <a href=""https://www.vocabulary.com/dictionary/imperceptible"">vocabulary</a>"^undetectable<br><br><br>truth
+"<h2>improvise</h2><a href=""https://www.membean.com/mywords/improvise"">membean</a> <a href=""https://www.vocabulary.com/dictionary/improvise"">vocabulary</a>"^perform without preparation<br><br><br>politics and tradition
+"<h2>inadvertent</h2><a href=""https://www.membean.com/mywords/inadvertent"">membean</a> <a href=""https://www.vocabulary.com/dictionary/inadvertent"">vocabulary</a>"^not on purpose<br><br><br>friends and enemies
+"<h2>inaudible</h2><a href=""https://www.vocabulary.com/dictionary/inaudible"">vocabulary</a>"^impossible to hear<br><br><br>truth
+"<h2>incidental</h2><a href=""https://www.vocabulary.com/dictionary/incidental"">vocabulary</a>"^secondary, accompanying<br><br><br>science
+"<h2>incompetent</h2><a href=""https://www.vocabulary.com/dictionary/incompetent"">vocabulary</a>"^not qualified, inadequate<br><br><br>knowledge and skill
+"<h2>incorporate</h2><a href=""https://www.vocabulary.com/dictionary/incorporate"">vocabulary</a>"^include<br><br><br>size, amount, location
+"<h2>indifferent</h2><a href=""https://www.membean.com/mywords/indifferent"">membean</a> <a href=""https://www.vocabulary.com/dictionary/indifferent"">vocabulary</a>"^lacking interest<br><br><br>argument and language
+"<h2>inevitable, inevitability</h2><a href=""https://www.vocabulary.com/dictionary/inevitable"">vocabulary</a>"^sure to happen<br><br><br>truth
+"<h2>inflexible</h2><a href=""https://www.vocabulary.com/dictionary/inflexible"">vocabulary</a>"^not yielding<br><br><br>give up?
+"<h2>innovation, innovative</h2><a href=""https://www.membean.com/mywords/innovation"">membean</a> <a href=""https://www.vocabulary.com/dictionary/innovation"">vocabulary</a>"^something new<br><br><br>time
+"<h2>inspiring</h2><a href=""https://www.vocabulary.com/dictionary/inspiring"">vocabulary</a>"^uplifting, encouraging<br><br><br>friends and enemies
+"<h2>intervene</h2><a href=""https://www.vocabulary.com/dictionary/intervene"">vocabulary</a>"^interrupt, come between<br><br><br>friends and enemies
+"<h2>intimidate</h2><a href=""https://www.vocabulary.com/dictionary/intimidate"">vocabulary</a>"^make timid, cause fear<br><br><br>give up?
+"<h2>introverted</h2><a href=""https://www.vocabulary.com/dictionary/introverted"">vocabulary</a>"^withdrawn, introspective<br><br><br>friends and enemies
+"<h2>lament, lamentable</h2><a href=""https://www.vocabulary.com/dictionary/lament"">vocabulary</a>"^express grief<br><br><br>war and peace
+"<h2>lavish</h2><a href=""https://www.membean.com/mywords/lavish"">membean</a> <a href=""https://www.vocabulary.com/dictionary/lavish"">vocabulary</a>"^extravagant<br><br><br>money
+"<h2>lax</h2><a href=""https://www.vocabulary.com/dictionary/lax"">vocabulary</a>"^not strict<br><br><br>law and order
+"<h2>linger</h2><a href=""https://www.vocabulary.com/dictionary/linger"">vocabulary</a>"^delay, prolong departure<br><br><br>time
+"<h2>mediocre</h2><a href=""https://www.membean.com/mywords/mediocre"">membean</a> <a href=""https://www.vocabulary.com/dictionary/mediocre"">vocabulary</a>"^inferior, second-rate<br><br><br>knowledge and skill
+"<h2>memoir</h2><a href=""https://www.vocabulary.com/dictionary/memoir"">vocabulary</a>"^autobiography<br><br><br>argument and language
+"<h2>merit</h2><a href=""https://www.vocabulary.com/dictionary/merit"">vocabulary</a>"^excellence<br><br><br>knowledge and skill
+"<h2>muddled</h2><a href=""https://www.vocabulary.com/dictionary/muddled"">vocabulary</a>"^confused, jumbled<br><br><br>knowledge and skill
+"<h2>mundane</h2><a href=""https://www.membean.com/mywords/mundane"">membean</a> <a href=""https://www.vocabulary.com/dictionary/mundane"">vocabulary</a>"^boring, ordinary<br><br><br>politics and tradition
+"<h2>narrative</h2><a href=""https://www.vocabulary.com/dictionary/narrative"">vocabulary</a>"^story<br><br><br>argument and language
+"<h2>nemesis</h2><a href=""https://www.membean.com/mywords/nemesis"">membean</a> <a href=""https://www.vocabulary.com/dictionary/nemesis"">vocabulary</a>"^cause of misery or harm<br><br><br>friends and enemies
+"<h2>nonchalant, nonchalance</h2><a href=""https://www.membean.com/mywords/nonchalant"">membean</a> <a href=""https://www.vocabulary.com/dictionary/nonchalant"">vocabulary</a>"^lack of concern<br><br><br>emotions
+"<h2>nostalgia</h2><a href=""https://www.vocabulary.com/dictionary/nostalgia"">vocabulary</a>"^sentimental desire to relive the past<br><br><br>time
+"<h2>novice</h2><a href=""https://www.membean.com/mywords/novice"">membean</a> <a href=""https://www.vocabulary.com/dictionary/novice"">vocabulary</a>"^beginner<br><br><br>knowledge and skill
+"<h2>nurture</h2><a href=""https://www.membean.com/mywords/nurture"">membean</a> <a href=""https://www.vocabulary.com/dictionary/nurture"">vocabulary</a>"^cultivate, nourish<br><br><br>size, amount, location
+"<h2>objective</h2><a href=""https://www.membean.com/mywords/objective"">membean</a> <a href=""https://www.vocabulary.com/dictionary/objective"">vocabulary</a>"^not biased<br><br><br>argument and language
+"<h2>obscure</h2><a href=""https://www.vocabulary.com/dictionary/obscure"">vocabulary</a>"^not well-known, hard to understand<br><br><br>truth
+"<h2>ominous</h2><a href=""https://www.membean.com/mywords/ominous"">membean</a> <a href=""https://www.vocabulary.com/dictionary/ominous"">vocabulary</a>"^menacing, threatening<br><br><br>war and peace
+"<h2>opacity, opaque</h2><a href=""https://www.vocabulary.com/dictionary/opacity"">vocabulary</a>"^not transparent, hard to understand<br><br><br>truth
+"<h2>optimist, optimistic</h2><a href=""https://www.vocabulary.com/dictionary/optimist"">vocabulary</a>"^one who usually expects a positive outcome<br><br><br>emotions
+"<h2>opulence, opulent</h2><a href=""https://www.vocabulary.com/dictionary/opulence"">vocabulary</a>"^wealthy<br><br><br>money
+"<h2>ornate</h2><a href=""https://www.membean.com/mywords/ornate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/ornate"">vocabulary</a>"^elaborate<br><br><br>the senses
+"<h2>pandemonium</h2><a href=""https://www.membean.com/mywords/pandemonium"">membean</a> <a href=""https://www.vocabulary.com/dictionary/pandemonium"">vocabulary</a>"^chaos<br><br><br>war and peace
+"<h2>parallel</h2><a href=""https://www.vocabulary.com/dictionary/parallel"">vocabulary</a>"^analogous, similar<br><br><br>argument and language
+"<h2>passive</h2><a href=""https://www.vocabulary.com/dictionary/passive"">vocabulary</a>"^not confrontational<br><br><br>friends and enemies
+"<h2>pervasive</h2><a href=""https://www.membean.com/mywords/pervasive"">membean</a> <a href=""https://www.vocabulary.com/dictionary/pervasive"">vocabulary</a>"^widespread<br><br><br>size, amount, location
+"<h2>pessimist, pessimism</h2><a href=""https://www.vocabulary.com/dictionary/pessimist"">vocabulary</a>"^one who usually expects a negative outcome<br><br><br>emotions
+"<h2>picturesque</h2><a href=""https://www.vocabulary.com/dictionary/picturesque"">vocabulary</a>"^attractive, vivid, expressive<br><br><br>the senses
+"<h2>pigment</h2><a href=""https://www.vocabulary.com/dictionary/pigment"">vocabulary</a>"^substance that gives color<br><br><br>the senses
+"<h2>pitfall</h2><a href=""https://www.vocabulary.com/dictionary/pitfall"">vocabulary</a>"^hidden danger<br><br><br>war and peace
+"<h2>plea</h2><a href=""https://www.vocabulary.com/dictionary/plea"">vocabulary</a>"^earnest request<br><br><br>give up?
+"<h2>pompous, pomposity</h2><a href=""https://www.membean.com/mywords/pompous"">membean</a> <a href=""https://www.vocabulary.com/dictionary/pompous"">vocabulary</a>"^arrogant<br><br><br>pride
+"<h2>pragmatic, pragmatism</h2><a href=""https://www.membean.com/mywords/pragmatic"">membean</a> <a href=""https://www.vocabulary.com/dictionary/pragmatic"">vocabulary</a>"^practical<br><br><br>knowledge and skill
+"<h2>prevalent</h2><a href=""https://www.vocabulary.com/dictionary/prevalent"">vocabulary</a>"^widespread<br><br><br>size, amount, location
+"<h2>principle</h2><a href=""https://www.vocabulary.com/dictionary/principle"">vocabulary</a>"^basic truth, rule<br><br><br>truth
+"<h2>probable, probability</h2><a href=""https://www.vocabulary.com/dictionary/probable"">vocabulary</a>"^likely<br><br><br>argument and language
+"<h2>prominent</h2><a href=""https://www.vocabulary.com/dictionary/prominent"">vocabulary</a>"^famous, noticeable<br><br><br>knowledge and skill
+"<h2>prosperous, prosperity</h2><a href=""https://www.vocabulary.com/dictionary/prosperous"">vocabulary</a>"^abundant, rich<br><br><br>money
+"<h2>proud</h2><a href=""https://www.vocabulary.com/dictionary/proud"">vocabulary</a>"^haughty<br><br><br>pride
+"<h2>provisional</h2><a href=""https://www.membean.com/mywords/provisional"">membean</a> <a href=""https://www.vocabulary.com/dictionary/provisional"">vocabulary</a>"^temporary<br><br><br>time
+"<h2>prudent</h2><a href=""https://www.vocabulary.com/dictionary/prudent"">vocabulary</a>"^careful<br><br><br>knowledge and skill
+"<h2>puny</h2><a href=""https://www.vocabulary.com/dictionary/puny"">vocabulary</a>"^small, weak<br><br><br>size, amount, location
+"<h2>ramble</h2><a href=""https://www.membean.com/mywords/ramble"">membean</a> <a href=""https://www.vocabulary.com/dictionary/ramble"">vocabulary</a>"^talk endlessly, take a long walk<br><br><br>argument and language
+"<h2>rambunctious</h2><a href=""https://www.membean.com/mywords/rambunctious"">membean</a> <a href=""https://www.vocabulary.com/dictionary/rambunctious"">vocabulary</a>"^boisterous, disorderly<br><br><br>energy
+"<h2>rant</h2><a href=""https://www.membean.com/mywords/rant"">membean</a> <a href=""https://www.vocabulary.com/dictionary/rant"">vocabulary</a>"^loud and angry speech/writing<br><br><br>praise and criticism
+"<h2>rebate</h2><a href=""https://www.vocabulary.com/dictionary/rebate"">vocabulary</a>"^refund, discount<br><br><br>money
+"<h2>reconcile</h2><a href=""https://www.vocabulary.com/dictionary/reconcile"">vocabulary</a>"^make peace, harmonize<br><br><br>friends and enemies
+"<h2>redundant, redundancy</h2><a href=""https://www.membean.com/mywords/redundant"">membean</a> <a href=""https://www.vocabulary.com/dictionary/redundant"">vocabulary</a>"^repetition<br><br><br>argument and language
+"<h2>rejuvenate</h2><a href=""https://www.membean.com/mywords/rejuvenate"">membean</a> <a href=""https://www.vocabulary.com/dictionary/rejuvenate"">vocabulary</a>"^make young again<br><br><br>energy
+"<h2>relentless</h2><a href=""https://www.vocabulary.com/dictionary/relentless"">vocabulary</a>"^not yielding<br><br><br>give up?
+"<h2>relevant</h2><a href=""https://www.vocabulary.com/dictionary/relevant"">vocabulary</a>"^significant, related to the topic at hand<br><br><br>argument and language
+"<h2>reluctant</h2><a href=""https://www.vocabulary.com/dictionary/reluctant"">vocabulary</a>"^unwilling, uneager<br><br><br>give up?
+"<h2>remedy</h2><a href=""https://www.vocabulary.com/dictionary/remedy"">vocabulary</a>"^cure, salve<br><br><br>energy
+"<h2>remorse</h2><a href=""https://www.vocabulary.com/dictionary/remorse"">vocabulary</a>"^regret<br><br><br>war and peace
+"<h2>repel</h2><a href=""https://www.vocabulary.com/dictionary/repel"">vocabulary</a>"^reject, cause someone to feel disgust<br><br><br>friends and enemies
+"<h2>robust</h2><a href=""https://www.vocabulary.com/dictionary/robust"">vocabulary</a>"^strong, healthy<br><br><br>energy
+"<h2>rudimentary</h2><a href=""https://www.membean.com/mywords/rudimentary"">membean</a> <a href=""https://www.vocabulary.com/dictionary/rudimentary"">vocabulary</a>"^basic, incomplete<br><br><br>knowledge and skill
+"<h2>rustic</h2><a href=""https://www.membean.com/mywords/rustic"">membean</a> <a href=""https://www.vocabulary.com/dictionary/rustic"">vocabulary</a>"^relating to the countryside<br><br><br>size, amount, location
+"<h2>scold</h2><a href=""https://www.vocabulary.com/dictionary/scold"">vocabulary</a>"^criticize<br><br><br>praise and criticism
+"<h2>scorn</h2><a href=""https://www.vocabulary.com/dictionary/scorn"">vocabulary</a>"^contempt<br><br><br>praise and criticism
+"<h2>simultaneous</h2><a href=""https://www.vocabulary.com/dictionary/simultaneous"">vocabulary</a>"^at the same time<br><br><br>time
+"<h2>smug</h2><a href=""https://www.vocabulary.com/dictionary/smug"">vocabulary</a>"^excessive self-satisfaction or complacency<br><br><br>pride
+"<h2>sparse</h2><a href=""https://www.vocabulary.com/dictionary/sparse"">vocabulary</a>"^scarce, poor<br><br><br>money
+"<h2>spontaneity, spontaneous</h2><a href=""https://www.membean.com/mywords/spontaneity"">membean</a> <a href=""https://www.vocabulary.com/dictionary/spontaneity"">vocabulary</a>"^spur of the moment<br><br><br>emotions
+"<h2>stimulating</h2><a href=""https://www.vocabulary.com/dictionary/stimulating"">vocabulary</a>"^exciting, interesting<br><br><br>praise and criticism
+"<h2>subjective</h2><a href=""https://www.membean.com/mywords/subjective"">membean</a> <a href=""https://www.vocabulary.com/dictionary/subjective"">vocabulary</a>"^biased, dependent on one's personal opinion<br><br><br>argument and language
+"<h2>subside</h2><a href=""https://www.membean.com/mywords/subside"">membean</a> <a href=""https://www.vocabulary.com/dictionary/subside"">vocabulary</a>"^diminish<br><br><br>size, amount, location
+"<h2>subtle</h2><a href=""https://www.membean.com/mywords/subtle"">membean</a> <a href=""https://www.vocabulary.com/dictionary/subtle"">vocabulary</a>"^not obvious<br><br><br>truth
+"<h2>succinct</h2><a href=""https://www.membean.com/mywords/succinct"">membean</a> <a href=""https://www.vocabulary.com/dictionary/succinct"">vocabulary</a>"^concise<br><br><br>argument and language
+"<h2>superficial</h2><a href=""https://www.membean.com/mywords/superficial"">membean</a> <a href=""https://www.vocabulary.com/dictionary/superficial"">vocabulary</a>"^shallow<br><br><br>the senses
+"<h2>sustain(ed)</h2><a href=""https://www.vocabulary.com/dictionary/sustain(ed)"">vocabulary</a>"^maintain, deal with<br><br><br>give up?
+"<h2>taunt</h2><a href=""https://www.vocabulary.com/dictionary/taunt"">vocabulary</a>"^tease, insult<br><br><br>friends and enemies
+"<h2>tedious</h2><a href=""https://www.vocabulary.com/dictionary/tedious"">vocabulary</a>"^boring, tiresome<br><br><br>praise and criticism
+"<h2>terse</h2><a href=""https://www.membean.com/mywords/terse"">membean</a> <a href=""https://www.vocabulary.com/dictionary/terse"">vocabulary</a>"^concise<br><br><br>argument and language
+"<h2>thesis</h2><a href=""https://www.vocabulary.com/dictionary/thesis"">vocabulary</a>"^statement of loglcal argument<br><br><br>argument and language
+"<h2>thrifty</h2><a href=""https://www.vocabulary.com/dictionary/thrifty"">vocabulary</a>"^cheap<br><br><br>money
+"<h2>thrive</h2><a href=""https://www.vocabulary.com/dictionary/thrive"">vocabulary</a>"^prosper, grow vigorously<br><br><br>size, amount, location
+"<h2>thwart</h2><a href=""https://www.membean.com/mywords/thwart"">membean</a> <a href=""https://www.vocabulary.com/dictionary/thwart"">vocabulary</a>"^obstruct<br><br><br>give up?
+"<h2>timid</h2><a href=""https://www.vocabulary.com/dictionary/timid"">vocabulary</a>"^shy<br><br><br>emotions
+"<h2>topple</h2><a href=""https://www.vocabulary.com/dictionary/topple"">vocabulary</a>"^fall, tumble<br><br><br>give up?
+"<h2>tranquil(ity)</h2><a href=""https://www.vocabulary.com/dictionary/tranquil(ity)"">vocabulary</a>"^calm, peaceful<br><br><br>energy
+"<h2>unkempt</h2><a href=""https://www.membean.com/mywords/unkempt"">membean</a> <a href=""https://www.vocabulary.com/dictionary/unkempt"">vocabulary</a>"^untidy, unpolished<br><br><br>the senses
+"<h2>unorthodox</h2><a href=""https://www.membean.com/mywords/unorthodox"">membean</a> <a href=""https://www.vocabulary.com/dictionary/unorthodox"">vocabulary</a>"^not traditional<br><br><br>politics and tradition
+"<h2>unprecedented</h2><a href=""https://www.membean.com/mywords/unprecedented"">membean</a> <a href=""https://www.vocabulary.com/dictionary/unprecedented"">vocabulary</a>"^without any previous example<br><br><br>time
+"<h2>viable</h2><a href=""https://www.membean.com/mywords/viable"">membean</a> <a href=""https://www.vocabulary.com/dictionary/viable"">vocabulary</a>"^possible<br><br><br>argument and language
+"<h2>vigor</h2><a href=""https://www.vocabulary.com/dictionary/vigor"">vocabulary</a>"^strength<br><br><br>knowledge and skill
+"<h2>vulnerable</h2><a href=""https://www.vocabulary.com/dictionary/vulnerable"">vocabulary</a>"^susceptible, exposed<br><br><br>give up?
+"<h2>wary</h2><a href=""https://www.membean.com/mywords/wary"">membean</a> <a href=""https://www.vocabulary.com/dictionary/wary"">vocabulary</a>"^cautious<br><br><br>give up?
+"<h2>weary</h2><a href=""https://www.vocabulary.com/dictionary/weary"">vocabulary</a>"^tired, fatigued<br><br><br>give up?
+"<h2>whim</h2><a href=""https://www.vocabulary.com/dictionary/whim"">vocabulary</a>"^impulse, spur-of-the-moment desire<br><br><br>emotions
+"<h2>whimsical</h2><a href=""https://www.membean.com/mywords/whimsical"">membean</a> <a href=""https://www.vocabulary.com/dictionary/whimsical"">vocabulary</a>"^playful, fanciful<br><br><br>emotions

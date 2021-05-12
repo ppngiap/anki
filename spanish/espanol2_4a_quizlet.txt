@@ -1,0 +1,39 @@
+los bloques	blocks
+la colección	collection
+la cuerda	rope
+el dinosaurio	dinosaur
+la muñeca	doll
+el muñeco	action figure
+el oso de peluche	teddy bear
+el tren eléctrico	electric train
+el triciclo	tricycle
+el pez	fish
+la tortuga	turtle
+coleccionar	to collect
+molestar	to bother
+pelearse	to fight
+saltar a la cuerda	to jump rope
+la guardería infantil	daycare center
+el patio de recreo	playground
+de niño	as a child
+de pequeño	as a child
+de vez en cuando	once in a while
+mentir	to lie
+obedecer	to obey
+ofrecer	to offer
+permitir	to permit
+por lo general	in general
+portarse bien	to behave well
+portarse mal	to behave badly
+todo el mundo	everyone
+el vecino	neighbor
+la verdad	truth
+bien educado	well-behaved
+consentido	spoiled
+desobediente	disobedient
+generoso	generous
+obediente	obedient
+tímido	timid
+travieso	mischievous
+la moneda	coin
+el mundo	world
